@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://lioen.xyz/img/fakecmd-7.png">
+   <img src="https://lioen.xyz/img/fakecmd.png">
    <h1>
       fakeCMD
    </h1>
