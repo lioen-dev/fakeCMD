@@ -86,6 +86,7 @@ while True:
             print(f"  TCP    127.0.0.1:27060        {user}:57344            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
             print(f"  TCP    127.0.0.1:49304        {user}:6327             ESTABLISHED (Confirmed by Microsoft as SAFE!)")
             print(f"  TCP    127.0.0.1:57300        {user}:57316            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
+            print(f"  TCP    127.0.0.1:6327         {user}:49362            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
             print(f"  TCP    127.0.0.1:57301        {user}:57315            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
             print(f"  TCP    127.0.0.1:57315        {user}:57301            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
             print(f"  TCP    127.0.0.1:57316        {user}:57300            ESTABLISHED (Confirmed by Microsoft as SAFE!)")
